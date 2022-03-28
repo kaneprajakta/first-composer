@@ -1,0 +1,15 @@
+{
+    "name": "kanep/first-composer",
+    "autoload": {
+        "psr-4": {
+            "Kanep\\FirstComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prajakta",
+            "email": "kane.prajakta@gmail.com"
+        }
+    ],
+    "require": {}
+}
